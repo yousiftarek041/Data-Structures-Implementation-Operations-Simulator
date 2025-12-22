@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Student mange ment system/Student mange ment system.csproj" />
+  <Project Path="Student mangement system/Student mangement system.vcxproj" />
+</Solution>
