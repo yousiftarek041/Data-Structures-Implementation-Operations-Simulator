@@ -1,0 +1,22 @@
+# Student Management System in C++
+
+This is a simple console-based Student Management System implemented in C++ using Object-Oriented Programming (OOP) concepts.
+
+## Features
+- Add new students
+- Delete students
+- Search for a student by ID
+- Display all students
+- Update student information
+- Simple console menu for easy use
+
+## Data Structures Used
+- Classes and Objects (OOP)
+- Arrays / Vectors (depending on your implementation)
+
+## How to Run
+1. Clone the repository or download the project files.
+2. Compile all .cpp files (main.cpp + class files) using any C++ compiler.
+3. Run `main.exe` or the compiled file.
+4. Use the console menu to perform operations.
+
