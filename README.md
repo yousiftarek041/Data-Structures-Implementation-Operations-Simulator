@@ -33,14 +33,19 @@ Open in your IDE
 Run the main file
 
 6.Future Improvements
-Include sorting & searching algorithms
-Add performance comparison between structures
+Include so<img width="1920" height="1080" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/3a59114e-f375-4329-a95d-9f415563e7df" />
+<img width="1920" height="1080" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/9ddd1b3a-25af-453d-a31d-dcd7749da4b7" />
+<img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/581e39d2-e552-4a6b-913b-dcb19cdc7a2d" />
 
-4.Author
+rting & searching algorithms
+Add performance comparison between structures
+7.Sample Output
+
+
+8.Author
 Yousif Tarek Abdelsadueq
 
 
 
 
-ؤؤؤؤ
-ؤ
+
